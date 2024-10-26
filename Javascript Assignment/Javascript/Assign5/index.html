@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="script1.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section id="center">
+        <div id="white">
+            <h1>Celsius to Fahrenheit</h1>
+
+            <label for="">Celsius  :</label>
+            <br>
+            <input id="num1" type="number">
+
+            <br>
+            <br>
+            
+            <br>
+            <br>
+            <button id="btn" onclick="add()">Submit</button>
+            <br>
+            <p id="result">The Fahrenheit is</p>
+        </div>
+    </section>
+</body>
+<script>
+    function add() {
+        var num1 = document.getElementById("num1").value;
+        var Fah = (num1 * 9/5) + 32
+
+        document.getElementById("result").innerHTML="Fahrenheit is"+ Fah
+    }
+</script>
+</html>

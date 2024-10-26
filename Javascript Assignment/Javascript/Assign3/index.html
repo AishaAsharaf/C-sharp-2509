@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Largest Number</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section id="center">
+        <div id="white">
+            <h1>Largest of 3 Numbers</h1>
+
+            <label for="">First Number   :</label>
+            <br>
+            <input id="num1" type="number">
+
+            <br>
+            <br>
+            <label for="">Second Number :</label>
+            <br>
+            <input id="num2" type="number">
+            <br>
+            <br>
+            <label for="">Third Number :</label>
+            <br>
+            <input id="num3" type="number">
+            <br>
+            <br>
+            <button id="btn" onclick="large()">Submit</button>
+            <br>
+            <p id="result">The largest number is</p>
+        </div>
+    </section>
+    
+</body>
+<script>
+    function large() {
+        var Number_One = document.getElementById("num1").value
+        var Number_Two = document.getElementById("num2").value
+        var Number_Three = document.getElementById("num3").value
+
+        var Largest = Math.max(Number_One,Number_Two,Number_Three);
+        document.getElementById("result").innerHTML = "The largest number is " + Largest;
+    }
+
+</script>
+</html>

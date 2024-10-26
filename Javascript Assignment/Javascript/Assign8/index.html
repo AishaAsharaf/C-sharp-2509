@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section id="center">
+        <div id="white">
+            <h1>Adding Two Numbers</h1>
+
+            <label for="">First Number   :</label>
+            <br>
+            <input id="num1" type="number">
+
+            <br>
+            <br>
+            <label for="">Second Number :</label>
+            <br>
+            <input id="num2" type="number">
+            <br>
+            <br>
+            
+            <label for="operation">Choose an operation:</label>
+            <select id="operation" name="operation">
+            <option value="add">Addition</option>
+            <option value="sub">Subtraction</option>
+            <option value="multi">Multiply</option>
+            <option value="divide">Divide</option>
+            </select>
+            <br>
+            <br>
+
+            <button id="btn" onclick="add()">Submit</button>
+            <br>
+            <p id="result">The result is</p>
+        </div>
+    </section>
+</body>
+<script>
+    function add() {
+        var Num_1 = parseInt(document.getElementById("num1").value);
+        var Num_2 = parseInt(document.getElementById("num2").value);
+        var Operater = document.getElementById("operation").value;
+        if(Operater == "add"){
+            var result =Num_1+Num_2;
+            document.getElementById("result").innerHTML = result;
+        }
+        else if(Operater == "sub"){
+            var result =Num_1-Num_2;
+            document.getElementById("result").innerHTML = result;
+        }
+        else if(Operater == "multi"){
+            var result =Num_1*Num_2;
+            document.getElementById("result").innerHTML = result;
+        }
+        else if(Operater == "divide"){
+            if(Num_2 != 0){
+            var result =parseFloat(Num_1/Num_2);
+            document.getElementById("result").innerHTML = result;}
+            else{
+                document.getElementById("result").innerHTML = "Error! Division by zero is not allowed";
+            }
+        }
+
+    }
+</script>
+</html>

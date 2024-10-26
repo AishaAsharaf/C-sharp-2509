@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Toggle</title>
+    <script src="script1.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section id="center">
+        <div id="white">
+            <h1>Light/Dark Mode</h1>
+
+            
+            <br><br>
+            <button id="btn" onclick="Toggle()">Toggle</button>
+            <br><br>
+        </div>
+    </section>
+</body>
+<script>
+   
+        function Toggle(){
+            var btn = document.getElementById("btn");
+            var center = document.getElementById("center");
+            var white = document.getElementById("white");
+           
+            if(btn.style.color === "black"){
+                center.style.color = "black";
+                center.style.backgroundColor = "black";
+                white.style.backgroundColor = "grey";
+                white.style.color = "white";
+                btn.style.color = "white";
+                btn.style.backgroundColor = "black";
+            } else {
+                center.style.color = "white";
+                center.style.backgroundColor = "white";
+                white.style.backgroundColor = "white";
+                white.style.color = "black";
+                btn.style.color = "black";
+                btn.style.backgroundColor = "white";
+            }
+        }
+        
+    
+</script>
+</html>

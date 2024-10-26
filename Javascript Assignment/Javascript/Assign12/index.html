@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stop Watch</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section id="center">
+        <div id="white">
+            <h1>Stop Watch</h1>
+
+            <h3 id="time">00:00</h3>
+
+        
+            <br>
+            <br>
+            <button id="btn" onclick="start()">Start</button>
+            <button id="btn" onclick="Reset()">Reset</button>
+            <br>
+            
+        </div>
+    </section>
+</body>
+<script>
+    let seconds = 0;
+    let minutes = 0;
+    let interval = false;
+
+    function start() {
+        if (!interval) {
+            interval = setInterval(updateTime, 1000);
+        }
+    }
+
+    function updateTime() {
+        seconds++;
+        if (seconds === 60) {
+            minutes++;
+            seconds = 0;
+        }
+
+        let formattedMin = minutes < 10 ? `0${minutes}` : minutes;
+        let formattedSec = seconds < 10 ? `0${seconds}` : seconds;
+        
+        document.getElementById("time").innerHTML = `${formattedMin}:${formattedSec}`;
+    }
+
+    function Reset() {
+        clearInterval(interval);
+        interval = false;
+        seconds = 0;
+        minutes = 0;
+        document.getElementById("time").innerHTML = "00:00";
+    }
+
+</script>
+</html>

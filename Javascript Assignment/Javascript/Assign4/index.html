@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section id="center">
+        <div id="white">
+            <h1>To-Do list</h1>
+
+            <label for="">Write Task here</label>
+            <br>
+            <input id="txt" type="text">
+
+            <br>
+            <br>
+            
+            
+            <button id="btn" onclick="addTask()">Add Task</button>
+            <br>
+            <ol id="result">
+
+            </ol>
+        </div>
+    </section>
+</body>
+<script>
+   function addTask(){
+    var task = document.getElementById("txt").value;
+    
+    if (task.trim()) {  
+        var listItem = `<li>${task}</li>`;
+        document.getElementById("result").innerHTML += listItem;  
+        document.getElementById("txt").value = '';  
+   }
+}
+</script>
+</html>

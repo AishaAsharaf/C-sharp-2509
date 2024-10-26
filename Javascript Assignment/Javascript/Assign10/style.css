@@ -1,0 +1,26 @@
+#center{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-image:linear-gradient(to top right,pink,white);
+    height:100vh;
+    width:100%;
+    margin:0px;
+    border:0px;
+}
+
+#white{
+    background-color: white;
+    border-radius:15px;
+    box-shadow: inset;
+    padding:100px;
+    font-size: xx-large;
+    text-align: center;
+    border:10px solid white
+    
+}
+.tog{
+    padding: 10px;
+    font-size: 15px;
+    border-radius:10px;
+}

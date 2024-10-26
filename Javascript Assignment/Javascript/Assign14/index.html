@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stop Watch</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section id="center">
+        <div id="white">
+            <h1>Random Quote Generator</h1>
+
+            <h5 id="quote">Click button to generate a quote !</h5>
+
+        
+            <br>
+            <br>
+            <button id="btn" onclick="Generate()">Generate</button>
+            
+            <br>
+            
+        </div>
+    </section>
+</body>
+<script>
+    function Generate() {
+        const quote = ["There is nothing either good or bad, but thinking makes it so", "Maturity comes with experiences not age", "First they laugh, then they copy","Sun is alone too but it still shines","If you are not losing friends, you are not growing up","The true art of memory is the art of attention","That man is the richest whose pleasures are the cheapest","Be not simply good, be good for something","To different minds,the same world is hell, and heaven.","Protect yourself from your own thoughts."];
+
+        var random = Math.floor(Math.random() * quote.length);
+        document.getElementById("quote").innerHTML = quote[random];
+    }
+    
+</script>
+</html>

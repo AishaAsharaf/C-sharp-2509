@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section id="center">
+        <div id="white">
+            <h1>CountDown Timer</h1>
+
+            <label for="">Time  :</label>
+            <br>
+            <input id="num1" type="number">
+
+            <br>
+            <br>
+            
+            <br>
+            <br>
+            <button id="btn" onclick="submit()">Submit</button>
+            <br>
+            <p id="result">Seconds Remaining</p>
+        </div>
+    </section>
+</body>
+<script>
+    function submit() {
+        var time = document.getElementById("num1").value;
+        var countdownId = document.getElementById("result");
+
+        var countdown = setInterval(function(){
+            countdownId.textContent = "Seconds remain is " + time;
+            time--;
+
+            if(time<0){
+                clearInterval(countdown);
+                countdownId.textContent = "Time's up";
+            }
+        },1000);
+        }
+      
+</script>
+</html>

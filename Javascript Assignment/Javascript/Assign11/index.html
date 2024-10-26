@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section id="center">
+        <div id="white">
+            <h1>Quiz</h1>
+
+            
+            <div style="text-align: left;">
+                <label for="q1">What does HTML stands for?</label>
+                <br>
+                <input type="radio" name="q1" value="wrong">Hyper title mark language>
+                <br>
+                <input type="radio" name="q1" value="wrong">Hyper text Market Language>
+                <br>
+                <input type="radio" name="q1" value="true">Hyper text MarKup Language >
+                <br>
+                <input type="radio" name="q1" value="wrong">Hyper text Markdown Language>
+                <br>
+                <br>
+                <br>
+                <label for="q2">What does HTML stands for?</label>
+                <br>
+                <input type="radio" name="q2" value="wrong">Hyper title mark language>
+                <br>
+                <input type="radio" name="q2" value="wrong">Hyper text Market Language>
+                <br>
+                <input type="radio" name="q2" value="true">Hyper text MarKup Language >
+                <br>
+                <input type="radio" name="q2" value="wrong">Hyper text Markdown Language>
+                <br>
+            </div>
+            <br><br>
+            <button id="btn" onclick="add()">Submit</button>
+            <p id="p"></p>
+        </div>
+    </section>
+    
+</body>
+<script>
+    function add(){
+        var q1 = document.querySelector('input[name="q1"]:checked').value;
+        var q2 = document.querySelector('input[name="q2"]:checked').value;
+        var count = 0;
+        if(q1=="true"){
+            count++;
+        }
+        if(q2=="true"){
+            count++;
+        }
+        document.getElementById("p").innerHTML = "You scored " + count + " out of 2";
+    }
+</script>
+</html>

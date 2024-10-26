@@ -1,0 +1,27 @@
+#center{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
+    height:100vh;
+    width:100%;
+    margin:0px;
+    border:0px;
+}
+
+#white{
+    background-color: white;
+    border-radius:15px;
+    box-shadow: inset;
+    padding:100px;
+    font-size: xx-large;
+    text-align: center;
+    border:10px solid white
+    
+}
+#btn{
+    width:auto;
+    padding:10px;
+    font-size:medium;
+    color: black;
+}

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Carousel</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section id="center">
+        <div id="white">
+            <h1>Image Carousel</h1>
+
+   
+            <br>
+            <br>
+            <div style="justify-content:center;align-content:center">
+                
+                <img src="https://www.tandtmc.edu.bd/images/4.png" alt="" style="width:300px;height:200px" id="1" value="1">
+                <img src="https://buffer.com/library/content/images/size/w1200/2023/10/free-images.jpg" alt="" style="width:300px;height:200px;display:none" id="2" value="2" >
+                <img src="https://i0.wp.com/picjumbo.com/wp-content/uploads/amazing-stone-path-in-forest-free-image.jpg?w=600&quality=80" alt="" style="width:300px;height:200px;display:none" id="3" value="3">
+                <img src="https://pixlr.com/images/index/ai-image-generator-one.webp" alt="" style="width:300px;height:200px;display:none" id="4" value="4">
+
+            </div>
+            <div>
+                <button id="btn" onclick="prev()">Back</button>
+                <button id="btn" onclick="Next()">Next</button>
+            </div>
+            
+            
+            <br>
+            
+        </div>
+    </section>
+</body>
+<script>
+      
+      var current = 1;
+
+      function prev() {
+          if (current == 1) {
+              current = 4; 
+          } else {
+              current--;
+          }
+          updateDisplay();
+      }
+
+      function Next() {
+          if (current == 4) {
+              current = 1; 
+          } else {
+              current++; 
+          }
+          updateDisplay();
+      }
+
+      function updateDisplay() {
+          
+          for (var i = 1; i <= 4; i++) {
+              document.getElementById(i).style.display = "none";
+          }
+          
+          document.getElementById(current).style.display = "block";
+      }
+
+      
+      
+    
+</script>
+</html>

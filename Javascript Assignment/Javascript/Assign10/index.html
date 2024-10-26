@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tip Calculator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section id="center">
+        <div id="white">
+            <h1>Tip Calculator</h1>
+            <br>
+            <br>
+            <label for="">Bill Amount   :</label>
+            <br>
+            <input id="num1" type="number" placeholder="$Bill Amount" class="tog">
+            <br>
+            <br>
+            <label for="Tip" >Tip Percentage   :</label>
+            <select name="Tip" class="tog" id="Tip">
+            <option value="10">10%</option>
+            <option value="12">12%</option>
+            <option value="15">15%</option>
+            
+            </select>
+            <br>
+            <br>
+            <button class="tog" onclick="Calculate()">Calculate</button>
+
+            <p id="result1">The bill amount is</p>
+            <p id="result2">The tip amount is</p>
+
+    
+
+
+        </div>
+    </section>
+</body>
+<script>
+    function Calculate() {
+        var Bill = parseFloat(document.getElementById("num1").value);
+        var Tip = parseFloat(document.getElementById("Tip").value);
+        if(Tip == 10){
+            var TotalTip = parseFloat(Bill*0.10);
+            document.getElementById("result1").innerHTML = `Total tip amount is ${TotalTip}`;
+            document.getElementById("result2").innerHTML = `Total bill amount is ${Bill+TotalTip}`;
+        }
+        else if(Tip == 12){
+            var TotalTip = parseFloat(Bill*0.12);
+            document.getElementById("result1").innerHTML = `Total tip amount is ${TotalTip}`;
+            document.getElementById("result2").innerHTML = `Total bill amount is ${Bill+TotalTip}`;
+        }
+        if(Tip == 15){
+            var TotalTip =parseFloat( Bill*0.15);
+            document.getElementById("result1").innerHTML = `Total tip amount is ${TotalTip}`;
+            document.getElementById("result2").innerHTML = `Total bill amount is ${Bill+TotalTip}`;
+        }
+
+    }
+</script>
+</html>
