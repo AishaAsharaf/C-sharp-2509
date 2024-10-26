@@ -1,0 +1,29 @@
+﻿body {
+    background: rgb(238,174,202);
+    background: linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    
+}
+
+#for1 {
+    display: flex;
+    justify-content: center;
+    align-content: center
+}
+
+#for2 {
+    border: 1px solid white;
+    text-align: center;
+    width: 50%;
+    background-color: whitesmoke;
+    border-radius: 20px;
+    padding:10px
+}
+
+.ag{
+    margin:5px;
+    margin-top:10px
+}
+
+forms{
+    padding:5px
+}

@@ -1,0 +1,22 @@
+﻿header
+{
+   color:blue;
+   background-color:antiquewhite
+   
+}
+section{
+    justify-content:center;
+    display:flex;
+    align-content:center;
+    justify-content:space-between;
+    padding-left:50px
+}
+button{
+    width:70px;
+    height:40px
+}
+li{
+    color:brown;
+    font-size:20px;
+    
+}

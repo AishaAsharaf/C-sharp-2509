@@ -1,0 +1,103 @@
+*{margin:0px;
+margin:0px;
+border:0px}
+
+#nav{
+    background-color: #000000;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    color: aliceblue;
+    padding-top:10px ;
+    width:100% ;
+    justify-content: space-around;
+}
+
+ul{
+    display: flex;
+    
+    align-content: center;
+    list-style: none;
+    font-size: larger;
+    
+     
+}
+li{
+    padding:20px ;
+    
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    list-style: none;
+    font-size: xx-large;
+    justify-content: space-around;
+    width:100%;
+    text-align: right;
+}
+
+@media screen and (max-width: 900px) {
+    li{
+      display:none;
+
+    }
+    #more{
+        display:block ;
+    }
+  }
+
+@media screen and (min-width: 900px) {
+    
+    #more{
+        visibility: hidden ;
+    }
+  }
+
+/* Style The Dropdown Button */
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  /* The container <div> - needed to position the dropdown content */
+  .dropdown {
+    position: relative;
+    display: inline-block;
+    
+  }
+  
+  /* Dropdown Content (Hidden by Default) */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  /* Links inside the dropdown */
+  .dropdown-content a {
+    color: black;
+    padding: 2px 6px;
+    text-decoration: none;
+    display: block;
+    font-size: medium;
+    text-align: left;
+  }
+  
+  /* Change color of dropdown links on hover */
+  .dropdown-content a:hover {background-color: #f1f1f1}
+  
+  /* Show the dropdown menu on hover */
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  /* Change the background color of the dropdown button when the dropdown content is shown */
+  .dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+  }

@@ -1,0 +1,98 @@
+﻿/* Reset styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styling */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+    background-color: #e0f7fa; /* Light blue background */
+}
+
+/* Login form container */
+.login-container {
+    width: 100%;
+    max-width: 400px;
+    padding: 20px;
+    background-color: #ffffff; /* White background for the form */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Slight shadow for depth */
+    text-align: center;
+}
+
+    /* Form heading */
+    .login-container h2 {
+        margin-bottom: 20px;
+        color: #00796b; /* Teal color */
+    }
+
+/* Form input fields */
+form label {
+    font-size: 0.9em;
+    color: #333; /* Dark text for labels */
+    text-align: left;
+    display: block;
+    margin: 10px 0 5px;
+}
+
+form input[type="text"],
+form input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc; /* Light gray border */
+    border-radius: 5px; /* Rounded corners */
+    font-size: 1em;
+}
+
+/* Checkbox container */
+.checkbox-container {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    margin-bottom: 15px;
+}
+
+    .checkbox-container input {
+        margin-right: 8px; /* Space between checkbox and label */
+    }
+
+/* Login button styling */
+.login-button {
+    width: 100%;
+    padding: 10px;
+    font-size: 1em;
+    font-weight: bold;
+    color: #fff; /* White text */
+    background-color: #00796b; /* Teal background */
+    border: none; /* Remove border */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+}
+
+/* Extra links (Forgot Password) */
+.extra-links {
+    margin-top: 10px;
+}
+
+    .extra-links a {
+        color: #00796b; /* Teal color */
+        text-decoration: none; /* No underline */
+    }
+
+        .extra-links a:hover {
+            text-decoration: underline; /* Underline on hover */
+        }
+
+/* Responsive styling for smaller screens */
+@media screen and (max-width: 480px) {
+    .login-container {
+        padding: 15px; /* Less padding on smaller screens */
+    }
+}

@@ -1,0 +1,88 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="StyleSheet6.css" rel="stylesheet" />
+</head>
+<body>
+    <!--Assignment 5: Simple Registration Form
+    Problem:
+    Create a responsive registration form using HTML and CSS. The form should include the
+    following fields:
+     Full Name
+     Email
+     Password
+     Confirm Password
+     Gender (radio buttons)
+     Date of Birth
+     Submit button
+    The form should have validation for required fields, and the design should be responsive and
+    clean.-->
+
+    <section id="for1">
+        <div id="for2">
+            <h1>Google Forms</h1>
+            <p>
+                This is a form that requires you to fill
+                Assignment 5: Simple Registration Form
+                
+                The form should have validation for required fields, and the design should be responsive and
+                clean.
+            </p>
+            <hr />
+            <form  style="margin:5px">
+                <label class="ag" style="margin-top: 10px"  for="name">Full Name</label>
+                <br />
+                <input type="text" name="name" value="" required />
+                <br />
+
+                <label  class="ag"  for="Email">Email</label>
+                <br />
+                <input type="email" name="Email" value="" required />
+                <br />
+
+                <label  class="ag"  for="pswd">Password</label>
+                <br />
+                <input type="password" name="pswd" value="" required />
+                <br />
+
+                <label  class="ag"  for="confirm pswd">Confirm Password</label>
+                <br />
+                <input type="text" name="confirm pswd" value="" required />
+                <br />
+
+                <label  class="ag"  for="gender">Gender</label>
+             
+                <input type="radio" name="gender" value="Male">
+
+                <label class="ag"   for="gender">Male</label><br>
+
+                <input type="radio" name="gender" value="Female">
+
+                <label  class="ag"  for="gender">Female</label><br>
+
+                <input type="radio" name="gender" value="Other">
+
+                <label class="ag"   for="gender">Other</label><br>
+
+
+
+                <label class="ag"  for="dob">Date of Birth</label>
+                <input type="date" name="date" value="" confirm pswd />
+
+                <br />
+
+                <button id="btn" style="padding:10px;margin:10px;border-radius:10px" type="submit">Submit</button>
+
+
+
+
+            </form>
+
+        </div>
+    </section>
+
+</body>
+</html>

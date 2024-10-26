@@ -1,0 +1,133 @@
+﻿/*body
+{
+    background-color:cornsilk;
+    justify-content:center;
+    align-content:center;
+    align-items:center;
+   
+}*/
+
+/* Basic reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* General body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5fafd; /* Light blue background */
+    color: #333; /* Dark gray text */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+/* Header section */
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+    header nav {
+        /*display: flex;*/
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+        max-width: 600px;
+        padding: 10px;
+        background-color: #0077b6; /* Blue background */
+        color: white;
+        border-radius: 8px;
+    }
+
+    header h3 {
+        font-size: 1.8em;
+        margin: 0;
+    }
+
+    header h5 {
+        font-size: 1em;
+        margin: 0;
+        font-style: italic;
+    }
+
+/* Horizontal rule styling */
+hr {
+    width: 100%;
+    max-width: 600px;
+    border: 0;
+    height: 1px;
+    background: #0077b6; /* Matches header color */
+    margin: 20px 0;
+}
+
+/* Biography section */
+section {
+    max-width: 600px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+    section p {
+        font-size: 1em;
+        line-height: 1.6;
+        margin-bottom: 10px;
+    }
+
+    /* Skills section */
+    section div {
+        text-align: center;
+    }
+
+ol {
+    list-style-type: decimal;
+    padding: 0;
+    color: #555;
+}
+
+    ol li {
+        font-size: 1em;
+        margin: 8px 0;
+    }
+
+/* Footer styling */
+footer {
+    max-width: 600px;
+    text-align: center;
+    padding: 10px;
+    background-color: #0077b6; /* Matches header color */
+    color: white;
+    border-radius: 8px;
+}
+
+    footer h5 {
+        margin-bottom: 8px;
+        font-size: 1em;
+    }
+
+    footer a {
+        color: white;
+        font-size: 1em;
+        text-decoration: none;
+    }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+
+/* Responsive styling */
+@media (max-width: 600px) {
+    header h3 {
+        font-size: 1.5em;
+    }
+
+    section p,
+    ol li,
+    footer h5,
+    footer a {
+        font-size: 0.9em;
+    }
+}
