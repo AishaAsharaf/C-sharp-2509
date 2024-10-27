@@ -1,0 +1,14 @@
+C:\Users\aisha\source\repos\ConsoleAppAssign2\bin\Debug\net8.0\ConsoleAppAssign2.exe
+C:\Users\aisha\source\repos\ConsoleAppAssign2\bin\Debug\net8.0\ConsoleAppAssign2.deps.json
+C:\Users\aisha\source\repos\ConsoleAppAssign2\bin\Debug\net8.0\ConsoleAppAssign2.runtimeconfig.json
+C:\Users\aisha\source\repos\ConsoleAppAssign2\bin\Debug\net8.0\ConsoleAppAssign2.dll
+C:\Users\aisha\source\repos\ConsoleAppAssign2\bin\Debug\net8.0\ConsoleAppAssign2.pdb
+C:\Users\aisha\source\repos\ConsoleAppAssign2\obj\Debug\net8.0\ConsoleAppAssign2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aisha\source\repos\ConsoleAppAssign2\obj\Debug\net8.0\ConsoleAppAssign2.AssemblyInfoInputs.cache
+C:\Users\aisha\source\repos\ConsoleAppAssign2\obj\Debug\net8.0\ConsoleAppAssign2.AssemblyInfo.cs
+C:\Users\aisha\source\repos\ConsoleAppAssign2\obj\Debug\net8.0\ConsoleAppAssign2.csproj.CoreCompileInputs.cache
+C:\Users\aisha\source\repos\ConsoleAppAssign2\obj\Debug\net8.0\ConsoleAppAssign2.dll
+C:\Users\aisha\source\repos\ConsoleAppAssign2\obj\Debug\net8.0\refint\ConsoleAppAssign2.dll
+C:\Users\aisha\source\repos\ConsoleAppAssign2\obj\Debug\net8.0\ConsoleAppAssign2.pdb
+C:\Users\aisha\source\repos\ConsoleAppAssign2\obj\Debug\net8.0\ConsoleAppAssign2.genruntimeconfig.cache
+C:\Users\aisha\source\repos\ConsoleAppAssign2\obj\Debug\net8.0\ref\ConsoleAppAssign2.dll
