@@ -1,0 +1,7 @@
+C:\Users\aisha\source\repos\InheritanceAssignments\bin\Debug\InheritanceAssignments.exe.config
+C:\Users\aisha\source\repos\InheritanceAssignments\bin\Debug\InheritanceAssignments.exe
+C:\Users\aisha\source\repos\InheritanceAssignments\bin\Debug\InheritanceAssignments.pdb
+C:\Users\aisha\source\repos\InheritanceAssignments\obj\Debug\InheritanceAssignments.csproj.AssemblyReference.cache
+C:\Users\aisha\source\repos\InheritanceAssignments\obj\Debug\InheritanceAssignments.csproj.CoreCompileInputs.cache
+C:\Users\aisha\source\repos\InheritanceAssignments\obj\Debug\InheritanceAssignments.exe
+C:\Users\aisha\source\repos\InheritanceAssignments\obj\Debug\InheritanceAssignments.pdb
