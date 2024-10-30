@@ -22,7 +22,7 @@ namespace Polymorphism
         {
             void Draw();
         }
-        public class Car : IMovable, IDrawable
+        public class Car : IMovable/*, IDrawable*/
         {
             public void Draw() {
                 Console.WriteLine("Drawing Interface in child");

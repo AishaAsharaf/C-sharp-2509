@@ -21,38 +21,43 @@ namespace Polymorphism
 
         public Lab_10_ReadOnly(string name, int age)
         {
-            Name = name;
+            Name = "Sheela";
             Age = age;
         }
 
         public virtual void Details()
         {
-            Console.WriteLine(Name + "at the age of "+ Age);
+            Console.WriteLine(Name + " at the age of "+ Age);
         }
 
     }
 
     public class Teenager: Lab_10_ReadOnly
-    {   
-        public Teenager(string name) : base(name,14)
+    {
+        public Teenager(string name,int age) : base(name, age)
         {
-            
+            base.Age = age;
+            //base.Name = "Sheela"
         }
+        
         public override void Details()
         {
-            Console.WriteLine(base.Name + "at the age of " + base.Age);
+            Console.WriteLine(base.Name + " at the age of " + base.Age);
         }
     }
 
     public class Adult : Lab_10_ReadOnly
     {
-        public Adult(string name) : base(name, 30)
+        public Adult(string name, int age) : base(name, age)
         {
-           
+            base.Age = age;
+            //base.Name = "Imen"
+
+
         }
         public override void Details()
         {
-            Console.WriteLine(base.Name + "at the age of " + base.Age);
+            Console.WriteLine(base.Name + " at the age of " + base.Age);
         }
     }
 }

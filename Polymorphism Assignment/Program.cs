@@ -76,6 +76,7 @@ namespace Polymorphism
             //--------------------------------------------------------------------------------------------
 
             //Assignment -5
+            //Employee_5.NumberOfEmployees();
             //Manager_5 manager = new Manager_5(3);
             //Developer_5 developer = new Developer_5(5);
 
@@ -137,7 +138,7 @@ namespace Polymorphism
 
             //Car myCar = new Car();
 
-            //// Demonstrating multiple inheritance
+            //// Demonstrate multiple inheritance
             //myCar.Move();    // Calls Move - IMovable
             //myCar.Draw();    // Calls Draw - IDrawable
             //Console.ReadLine();
@@ -145,14 +146,18 @@ namespace Polymorphism
             //--------------------------------------------------------------------------------------------
             //Assignmnet -10
 
-            //// Creating instances of Teenager and Adult
-            //Lab_10_ReadOnly teenager = new Teenager("Alice");
-            //Lab_10_ReadOnly adult = new Adult("Bob");
+            // Creating instances of Teenager & child
+            Lab_10_ReadOnly child = new Lab_10_ReadOnly("Alice", 3);
+            Lab_10_ReadOnly teenager = new Teenager("Alice",14);
+            Lab_10_ReadOnly adult = new Adult("Loki", 34);
 
-            //// Demonstrating polymorphism with readonly property
-            //teenager.Details();
-            //adult.Details();
-            //Console.ReadLine();
+
+
+            // readonly variable - no change
+            child.Details();
+            teenager.Details();
+            adult.Details();
+            Console.ReadLine();
 
         }
 

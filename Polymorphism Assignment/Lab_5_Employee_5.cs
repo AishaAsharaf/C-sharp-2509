@@ -22,8 +22,8 @@ namespace Polymorphism
         }
         
         //A static method to display the total count.Use method overriding to demonstrate
-        public static void NumberOfEmployees(int number) {
-            Console.WriteLine(number + " is the no. of employees");
+        public static void NumberOfEmployees() {
+            Console.WriteLine(numberOfEmployees + " is the no. of employees");
         }
 
         public virtual void DisplayInfo_5()
@@ -31,7 +31,7 @@ namespace Polymorphism
             
             Console.WriteLine("The number of employees is " + numberOfEmployees);
         }
-        //polymorphism, while also explaining the need for static members in this context.
+      
     }
     //Derived class
     public class Manager_5 : Employee_5 {

@@ -35,7 +35,7 @@ namespace Polymorphism
             Console.WriteLine("Tasks: ");
             foreach (var task in Tasks)
             {
-                Console.WriteLine("- " + task);
+                Console.WriteLine(" " + task);
             }
         }
 
@@ -44,7 +44,7 @@ namespace Polymorphism
 
     public class Manager_6 : Employee_6
     {
-        //using base, no field here as they are init in base class
+        //using base
         public Manager_6(string name, string[] tasks):base(name,tasks)
         {
            
@@ -61,7 +61,7 @@ namespace Polymorphism
     //Derived class
     public class Developer_6 : Employee_6
     {
-        //using base, no field here as they are init in base class
+        //using base
         public Developer_6(string name, string[] tasks) : base(name, tasks)
         {
           
