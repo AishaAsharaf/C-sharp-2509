@@ -1,0 +1,7 @@
+C:\Users\aisha\source\repos\Abstract_Interface_Partial\bin\Debug\Abstract_Interface_Partial.exe.config
+C:\Users\aisha\source\repos\Abstract_Interface_Partial\bin\Debug\Abstract_Interface_Partial.exe
+C:\Users\aisha\source\repos\Abstract_Interface_Partial\bin\Debug\Abstract_Interface_Partial.pdb
+C:\Users\aisha\source\repos\Abstract_Interface_Partial\obj\Debug\Abstract_Interface_Partial.csproj.AssemblyReference.cache
+C:\Users\aisha\source\repos\Abstract_Interface_Partial\obj\Debug\Abstract_Interface_Partial.csproj.CoreCompileInputs.cache
+C:\Users\aisha\source\repos\Abstract_Interface_Partial\obj\Debug\Abstract_Interface_Partial.exe
+C:\Users\aisha\source\repos\Abstract_Interface_Partial\obj\Debug\Abstract_Interface_Partial.pdb
