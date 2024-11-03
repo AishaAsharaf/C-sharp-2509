@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aisha\\source\\repos\\Oct-29\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC94D52-68BF-4529-9B55-D3ED756DF21B}|Oct-29.csproj|C:\\Users\\aisha\\source\\repos\\Oct-29\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC94D52-68BF-4529-9B55-D3ED756DF21B}|Oct-29.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC94D52-68BF-4529-9B55-D3ED756DF21B}|Oct-29.csproj|c:\\users\\aisha\\source\\repos\\oct-29\\ref_keyword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC94D52-68BF-4529-9B55-D3ED756DF21B}|Oct-29.csproj|solutionrelative:ref_keyword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ref_keyword.cs",
+              "DocumentMoniker": "C:\\Users\\aisha\\source\\repos\\Oct-29\\Ref_keyword.cs",
+              "RelativeDocumentMoniker": "Ref_keyword.cs",
+              "ToolTip": "C:\\Users\\aisha\\source\\repos\\Oct-29\\Ref_keyword.cs",
+              "RelativeToolTip": "Ref_keyword.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:23:51.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aisha\\source\\repos\\Oct-29\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\aisha\\source\\repos\\Oct-29\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAkwDYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:22:45.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

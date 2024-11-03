@@ -1,0 +1,11 @@
+C:\Users\aisha\source\repos\Log4Net_example\obj\Debug\Log4Net_example.csproj.AssemblyReference.cache
+C:\Users\aisha\source\repos\Log4Net_example\obj\Debug\Log4Net_example.csproj.CoreCompileInputs.cache
+C:\Users\aisha\source\repos\Log4Net_example\bin\Debug\Log4Net_example.exe.config
+C:\Users\aisha\source\repos\Log4Net_example\bin\Debug\Log4Net_example.exe
+C:\Users\aisha\source\repos\Log4Net_example\bin\Debug\Log4Net_example.pdb
+C:\Users\aisha\source\repos\Log4Net_example\bin\Debug\log4net.dll
+C:\Users\aisha\source\repos\Log4Net_example\bin\Debug\log4net.pdb
+C:\Users\aisha\source\repos\Log4Net_example\bin\Debug\log4net.xml
+C:\Users\aisha\source\repos\Log4Net_example\obj\Debug\Log4Net_.AD27E7C2.Up2Date
+C:\Users\aisha\source\repos\Log4Net_example\obj\Debug\Log4Net_example.exe
+C:\Users\aisha\source\repos\Log4Net_example\obj\Debug\Log4Net_example.pdb
