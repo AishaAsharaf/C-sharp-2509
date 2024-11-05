@@ -1,0 +1,7 @@
+C:\Users\aisha\source\repos\ConsoleAppNumber\bin\Debug\ConsoleAppNumber.exe.config
+C:\Users\aisha\source\repos\ConsoleAppNumber\bin\Debug\ConsoleAppNumber.exe
+C:\Users\aisha\source\repos\ConsoleAppNumber\bin\Debug\ConsoleAppNumber.pdb
+C:\Users\aisha\source\repos\ConsoleAppNumber\obj\Debug\ConsoleAppNumber.csproj.AssemblyReference.cache
+C:\Users\aisha\source\repos\ConsoleAppNumber\obj\Debug\ConsoleAppNumber.csproj.CoreCompileInputs.cache
+C:\Users\aisha\source\repos\ConsoleAppNumber\obj\Debug\ConsoleAppNumber.exe
+C:\Users\aisha\source\repos\ConsoleAppNumber\obj\Debug\ConsoleAppNumber.pdb

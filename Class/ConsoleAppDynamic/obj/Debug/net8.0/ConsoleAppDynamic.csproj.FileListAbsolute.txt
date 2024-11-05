@@ -1,0 +1,14 @@
+C:\Users\aisha\source\repos\ConsoleAppDynamic\bin\Debug\net8.0\ConsoleAppDynamic.exe
+C:\Users\aisha\source\repos\ConsoleAppDynamic\bin\Debug\net8.0\ConsoleAppDynamic.deps.json
+C:\Users\aisha\source\repos\ConsoleAppDynamic\bin\Debug\net8.0\ConsoleAppDynamic.runtimeconfig.json
+C:\Users\aisha\source\repos\ConsoleAppDynamic\bin\Debug\net8.0\ConsoleAppDynamic.dll
+C:\Users\aisha\source\repos\ConsoleAppDynamic\bin\Debug\net8.0\ConsoleAppDynamic.pdb
+C:\Users\aisha\source\repos\ConsoleAppDynamic\obj\Debug\net8.0\ConsoleAppDynamic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aisha\source\repos\ConsoleAppDynamic\obj\Debug\net8.0\ConsoleAppDynamic.AssemblyInfoInputs.cache
+C:\Users\aisha\source\repos\ConsoleAppDynamic\obj\Debug\net8.0\ConsoleAppDynamic.AssemblyInfo.cs
+C:\Users\aisha\source\repos\ConsoleAppDynamic\obj\Debug\net8.0\ConsoleAppDynamic.csproj.CoreCompileInputs.cache
+C:\Users\aisha\source\repos\ConsoleAppDynamic\obj\Debug\net8.0\ConsoleAppDynamic.dll
+C:\Users\aisha\source\repos\ConsoleAppDynamic\obj\Debug\net8.0\refint\ConsoleAppDynamic.dll
+C:\Users\aisha\source\repos\ConsoleAppDynamic\obj\Debug\net8.0\ConsoleAppDynamic.pdb
+C:\Users\aisha\source\repos\ConsoleAppDynamic\obj\Debug\net8.0\ConsoleAppDynamic.genruntimeconfig.cache
+C:\Users\aisha\source\repos\ConsoleAppDynamic\obj\Debug\net8.0\ref\ConsoleAppDynamic.dll

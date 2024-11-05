@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aisha\\source\\repos\\ConsoleApp-Oct24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0F046C-DD72-4B37-AAC2-51663F5C14F1}|ConsoleApp-Oct24.csproj|C:\\Users\\aisha\\source\\repos\\ConsoleApp-Oct24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0F046C-DD72-4B37-AAC2-51663F5C14F1}|ConsoleApp-Oct24.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0F046C-DD72-4B37-AAC2-51663F5C14F1}|ConsoleApp-Oct24.csproj|C:\\Users\\aisha\\source\\repos\\ConsoleApp-Oct24\\abstract_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0F046C-DD72-4B37-AAC2-51663F5C14F1}|ConsoleApp-Oct24.csproj|solutionrelative:abstract_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0F046C-DD72-4B37-AAC2-51663F5C14F1}|ConsoleApp-Oct24.csproj|c:\\users\\aisha\\source\\repos\\consoleapp-oct24\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0F046C-DD72-4B37-AAC2-51663F5C14F1}|ConsoleApp-Oct24.csproj|solutionrelative:extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0F046C-DD72-4B37-AAC2-51663F5C14F1}|ConsoleApp-Oct24.csproj|C:\\Users\\aisha\\source\\repos\\ConsoleApp-Oct24\\class_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0F046C-DD72-4B37-AAC2-51663F5C14F1}|ConsoleApp-Oct24.csproj|solutionrelative:class_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Extension.cs",
+              "DocumentMoniker": "C:\\Users\\aisha\\source\\repos\\ConsoleApp-Oct24\\Extension.cs",
+              "RelativeDocumentMoniker": "Extension.cs",
+              "ToolTip": "C:\\Users\\aisha\\source\\repos\\ConsoleApp-Oct24\\Extension.cs",
+              "RelativeToolTip": "Extension.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:21:57.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class_A.cs",
+              "DocumentMoniker": "C:\\Users\\aisha\\source\\repos\\ConsoleApp-Oct24\\Class_A.cs",
+              "RelativeDocumentMoniker": "Class_A.cs",
+              "ToolTip": "C:\\Users\\aisha\\source\\repos\\ConsoleApp-Oct24\\Class_A.cs",
+              "RelativeToolTip": "Class_A.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T04:31:25.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Abstract_A.cs",
+              "DocumentMoniker": "C:\\Users\\aisha\\source\\repos\\ConsoleApp-Oct24\\Abstract_A.cs",
+              "RelativeDocumentMoniker": "Abstract_A.cs",
+              "ToolTip": "C:\\Users\\aisha\\source\\repos\\ConsoleApp-Oct24\\Abstract_A.cs",
+              "RelativeToolTip": "Abstract_A.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T04:30:57.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aisha\\source\\repos\\ConsoleApp-Oct24\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\aisha\\source\\repos\\ConsoleApp-Oct24\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwBIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:34:01.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

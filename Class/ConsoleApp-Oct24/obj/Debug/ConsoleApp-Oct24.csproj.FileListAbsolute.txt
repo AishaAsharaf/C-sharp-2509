@@ -1,0 +1,7 @@
+C:\Users\aisha\source\repos\ConsoleApp-Oct24\bin\Debug\ConsoleApp-Oct24.exe.config
+C:\Users\aisha\source\repos\ConsoleApp-Oct24\bin\Debug\ConsoleApp-Oct24.exe
+C:\Users\aisha\source\repos\ConsoleApp-Oct24\bin\Debug\ConsoleApp-Oct24.pdb
+C:\Users\aisha\source\repos\ConsoleApp-Oct24\obj\Debug\ConsoleApp-Oct24.csproj.AssemblyReference.cache
+C:\Users\aisha\source\repos\ConsoleApp-Oct24\obj\Debug\ConsoleApp-Oct24.csproj.CoreCompileInputs.cache
+C:\Users\aisha\source\repos\ConsoleApp-Oct24\obj\Debug\ConsoleApp-Oct24.exe
+C:\Users\aisha\source\repos\ConsoleApp-Oct24\obj\Debug\ConsoleApp-Oct24.pdb

@@ -1,0 +1,11 @@
+C:\Users\aisha\source\repos\ConsoleAppClass\bin\Debug\ConsoleAppClass.exe.config
+C:\Users\aisha\source\repos\ConsoleAppClass\bin\Debug\ConsoleAppClass.exe
+C:\Users\aisha\source\repos\ConsoleAppClass\bin\Debug\ConsoleAppClass.pdb
+C:\Users\aisha\source\repos\ConsoleAppClass\obj\Debug\ConsoleAppClass.csproj.AssemblyReference.cache
+C:\Users\aisha\source\repos\ConsoleAppClass\obj\Debug\ConsoleAppClass.csproj.CoreCompileInputs.cache
+C:\Users\aisha\source\repos\ConsoleAppClass\obj\Debug\ConsoleAppClass.exe
+C:\Users\aisha\source\repos\ConsoleAppClass\obj\Debug\ConsoleAppClass.pdb
+C:\Users\aisha\source\repos\ConsoleAppClass\bin\Debug\ConsoleAppClass.exe.manifest
+C:\Users\aisha\source\repos\ConsoleAppClass\bin\Debug\ConsoleAppClass.application
+C:\Users\aisha\source\repos\ConsoleAppClass\obj\Debug\ConsoleAppClass.exe.manifest
+C:\Users\aisha\source\repos\ConsoleAppClass\obj\Debug\ConsoleAppClass.application

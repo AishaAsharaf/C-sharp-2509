@@ -1,0 +1,14 @@
+C:\Users\aisha\source\repos\ConsoleAppInheritance\obj\Debug\net8.0\ConsoleAppInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aisha\source\repos\ConsoleAppInheritance\obj\Debug\net8.0\ConsoleAppInheritance.AssemblyInfoInputs.cache
+C:\Users\aisha\source\repos\ConsoleAppInheritance\obj\Debug\net8.0\ConsoleAppInheritance.AssemblyInfo.cs
+C:\Users\aisha\source\repos\ConsoleAppInheritance\obj\Debug\net8.0\ConsoleAppInheritance.csproj.CoreCompileInputs.cache
+C:\Users\aisha\source\repos\ConsoleAppInheritance\bin\Debug\net8.0\ConsoleAppInheritance.exe
+C:\Users\aisha\source\repos\ConsoleAppInheritance\bin\Debug\net8.0\ConsoleAppInheritance.deps.json
+C:\Users\aisha\source\repos\ConsoleAppInheritance\bin\Debug\net8.0\ConsoleAppInheritance.runtimeconfig.json
+C:\Users\aisha\source\repos\ConsoleAppInheritance\bin\Debug\net8.0\ConsoleAppInheritance.dll
+C:\Users\aisha\source\repos\ConsoleAppInheritance\bin\Debug\net8.0\ConsoleAppInheritance.pdb
+C:\Users\aisha\source\repos\ConsoleAppInheritance\obj\Debug\net8.0\ConsoleAppInheritance.dll
+C:\Users\aisha\source\repos\ConsoleAppInheritance\obj\Debug\net8.0\refint\ConsoleAppInheritance.dll
+C:\Users\aisha\source\repos\ConsoleAppInheritance\obj\Debug\net8.0\ConsoleAppInheritance.pdb
+C:\Users\aisha\source\repos\ConsoleAppInheritance\obj\Debug\net8.0\ConsoleAppInheritance.genruntimeconfig.cache
+C:\Users\aisha\source\repos\ConsoleAppInheritance\obj\Debug\net8.0\ref\ConsoleAppInheritance.dll
