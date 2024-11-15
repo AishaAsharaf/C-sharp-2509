@@ -1,0 +1,8 @@
+2024-11-04 17:18:45,634 [1] ERROR C_Assignments_SolutionsPart_5.Logger -
+Attempted to divide by zero.
+System.DivideByZeroException: Attempted to divide by zero.
+   at C_Assignments_SolutionsPart_5.LoggingExample.Divide(Int32 a, Int32 b) in C:\Users\aisha\source\repos\C#Assignments-SolutionsPart-5\Assignment_13.cs:line 33
+2024-11-05 16:33:47,662 [1] ERROR C_Assignments_SolutionsPart_5.Logger -
+Attempted to divide by zero.
+System.DivideByZeroException: Attempted to divide by zero.
+   at C_Assignments_SolutionsPart_5.LoggingExample.Divide(Int32 a, Int32 b) in C:\Users\aisha\source\repos\C#Assignments-SolutionsPart-5\Assignment_13.cs:line 33

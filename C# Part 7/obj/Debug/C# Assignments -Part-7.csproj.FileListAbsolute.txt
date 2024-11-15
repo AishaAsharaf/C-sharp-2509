@@ -1,0 +1,7 @@
+C:\Users\aisha\source\repos\C# Assignments -Part-7\bin\Debug\C# Assignments -Part-7.exe.config
+C:\Users\aisha\source\repos\C# Assignments -Part-7\bin\Debug\C# Assignments -Part-7.exe
+C:\Users\aisha\source\repos\C# Assignments -Part-7\bin\Debug\C# Assignments -Part-7.pdb
+C:\Users\aisha\source\repos\C# Assignments -Part-7\obj\Debug\C# Assignments -Part-7.csproj.AssemblyReference.cache
+C:\Users\aisha\source\repos\C# Assignments -Part-7\obj\Debug\C# Assignments -Part-7.csproj.CoreCompileInputs.cache
+C:\Users\aisha\source\repos\C# Assignments -Part-7\obj\Debug\C# Assignments -Part-7.exe
+C:\Users\aisha\source\repos\C# Assignments -Part-7\obj\Debug\C# Assignments -Part-7.pdb

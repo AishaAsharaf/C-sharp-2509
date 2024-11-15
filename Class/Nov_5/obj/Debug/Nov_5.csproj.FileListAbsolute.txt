@@ -5,3 +5,10 @@ C:\Users\aisha\source\repos\Nov_5\obj\Debug\Nov_5.csproj.AssemblyReference.cache
 C:\Users\aisha\source\repos\Nov_5\obj\Debug\Nov_5.csproj.CoreCompileInputs.cache
 C:\Users\aisha\source\repos\Nov_5\obj\Debug\Nov_5.exe
 C:\Users\aisha\source\repos\Nov_5\obj\Debug\Nov_5.pdb
+C:\Users\aisha\OneDrive\Desktop\GitUpload\Class\Class\Nov_5\bin\Debug\Nov_5.exe.config
+C:\Users\aisha\OneDrive\Desktop\GitUpload\Class\Class\Nov_5\bin\Debug\Nov_5.exe
+C:\Users\aisha\OneDrive\Desktop\GitUpload\Class\Class\Nov_5\bin\Debug\Nov_5.pdb
+C:\Users\aisha\OneDrive\Desktop\GitUpload\Class\Class\Nov_5\obj\Debug\Nov_5.csproj.AssemblyReference.cache
+C:\Users\aisha\OneDrive\Desktop\GitUpload\Class\Class\Nov_5\obj\Debug\Nov_5.csproj.CoreCompileInputs.cache
+C:\Users\aisha\OneDrive\Desktop\GitUpload\Class\Class\Nov_5\obj\Debug\Nov_5.exe
+C:\Users\aisha\OneDrive\Desktop\GitUpload\Class\Class\Nov_5\obj\Debug\Nov_5.pdb

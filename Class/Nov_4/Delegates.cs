@@ -10,7 +10,7 @@ namespace Nov_4
     {
         public void Print(string message) 
         {
-            Console.WriteLine(value: "The message is : " + message);
+            Console.WriteLine("The message is : " + message);
         }
 
         public void Print2(string message)

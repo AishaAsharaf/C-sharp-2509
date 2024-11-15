@@ -15,23 +15,23 @@ namespace Nov_4
         public delegate void Message(string message);  //delegate here
         static void Main(string[] args)
         {
-            //var sample = new { name = "Sam", age = 23, college = "CEP", course = new{name ="maths",grade ="A"}};
-            ////Access from here itself
-            //Console.WriteLine("sample from without accessing class");
-            //Console.WriteLine(sample.name);
-            //Console.WriteLine(sample.age);
-            //Console.WriteLine(sample.college);
-            //Console.WriteLine("\n sample,nested from without accessing class");
-            //Console.WriteLine(sample.course.name);
-            ////Acces method from anonymous class
-            //Console.WriteLine("\n sample from accessing class method");
-            //Anonymous.Print(sample);
+            var sample = new { name = "Sam", age = 23, college = "CEP", course = new { name = "maths", grade = "A" } };
+            //Access from here itself
+            Console.WriteLine("sample from without accessing class");
+            Console.WriteLine(sample.name);
+            Console.WriteLine(sample.age);
+            Console.WriteLine(sample.college);
+            Console.WriteLine("\n sample,nested from without accessing class");
+            Console.WriteLine(sample.course.name);
+            //Acces method from anonymous class
+            Console.WriteLine("\n sample from accessing class method");
+            Anonymous.Print(sample);
 
 
             //-----------------------------------------------------------------------------
             //Delegates
-            //string one = "Here we go 1st message";
-            //string two = "2nd message";
+            ////string one = "Here we go 1st message";
+            ////string two = "2nd message";
 
             Delegates messages = new Delegates();  // No need if its a static class
             Message message_1 = new Message(messages.Print);

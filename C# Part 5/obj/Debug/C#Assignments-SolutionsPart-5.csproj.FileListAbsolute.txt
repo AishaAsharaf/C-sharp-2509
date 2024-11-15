@@ -1,0 +1,11 @@
+C:\Users\aisha\source\repos\C#Assignments-SolutionsPart-5\bin\Debug\C#Assignments-SolutionsPart-5.exe.config
+C:\Users\aisha\source\repos\C#Assignments-SolutionsPart-5\bin\Debug\C#Assignments-SolutionsPart-5.exe
+C:\Users\aisha\source\repos\C#Assignments-SolutionsPart-5\bin\Debug\C#Assignments-SolutionsPart-5.pdb
+C:\Users\aisha\source\repos\C#Assignments-SolutionsPart-5\obj\Debug\C#Assignments-SolutionsPart-5.csproj.AssemblyReference.cache
+C:\Users\aisha\source\repos\C#Assignments-SolutionsPart-5\obj\Debug\C#Assignments-SolutionsPart-5.csproj.CoreCompileInputs.cache
+C:\Users\aisha\source\repos\C#Assignments-SolutionsPart-5\obj\Debug\C#Assignments-SolutionsPart-5.exe
+C:\Users\aisha\source\repos\C#Assignments-SolutionsPart-5\obj\Debug\C#Assignments-SolutionsPart-5.pdb
+C:\Users\aisha\source\repos\C#Assignments-SolutionsPart-5\bin\Debug\log4net.dll
+C:\Users\aisha\source\repos\C#Assignments-SolutionsPart-5\bin\Debug\log4net.pdb
+C:\Users\aisha\source\repos\C#Assignments-SolutionsPart-5\bin\Debug\log4net.xml
+C:\Users\aisha\source\repos\C#Assignments-SolutionsPart-5\obj\Debug\C#Assign.3A7B5223.Up2Date
